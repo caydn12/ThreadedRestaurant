@@ -40,9 +40,9 @@
         </Grid.RowDefinitions>
 
         <!--Restaurant Logo-->
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\CompanyLogo.png" Grid.Column="4" Grid.Row="0"/>
+        <Image Source="../images/CompanyLogo.png" Grid.Column="4" Grid.Row="0"/>
         <TextBlock Grid.Column="5" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32">Los Pollos Hermanos</TextBlock>
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\CompanyLogoReversed.png" Grid.Column="8" Grid.Row="0"/>
+        <Image Source="../images/CompanyLogoReversed.png" Grid.Column="8" Grid.Row="0"/>
 
         <!--Left Side of Restaurant-->
         <Rectangle Fill="Brown" Grid.Column="1" Grid.Row="1" Grid.RowSpan="7"/>
@@ -73,7 +73,7 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Cashier.png" Grid.Column="3" Grid.Row="6"/>
+        <Image Source="../images/Cashier.png" Grid.Column="3" Grid.Row="6"/>
 
         <!--Second Cashier-->
         <Grid Grid.Column="5" Grid.Row="5">
@@ -86,7 +86,7 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
-        <Image Source="asdfasdfsasdfasdfsafasdfsadfsRestsadfsadfasaurantGUI\assets\images\Cashier.png" Grid.Column="5" Grid.Row="6"/>
+        <Image Source="../images/Cashier.png" Grid.Column="5" Grid.Row="6"/>
 
         <!--Third Cashier-->
         <Grid Grid.Column="7" Grid.Row="5">
@@ -99,7 +99,7 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Cashier.png" Grid.Column="7" Grid.Row="6"/>
+        <Image Source="../images/Cashier.png" Grid.Column="7" Grid.Row="6"/>
         
         <!--Placed Order Queue-->
         <TextBlock Grid.Column="5" Grid.Row="2" VerticalAlignment="Bottom" 
@@ -131,8 +131,8 @@
         </Grid>
 
         <!--Chef Images-->
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Chef.png" Grid.Column="8" Grid.Row="2"/>
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Chef.png" Grid.Column="8" Grid.Row="4"/>
+        <Image Source="../images/Chef.png" Grid.Column="8" Grid.Row="2"/>
+        <Image Source="../images/Chef.png" Grid.Column="8" Grid.Row="4"/>
 
         <!--Outgoing Order Queue-->
         <TextBlock Grid.Column="0" Grid.Row="5" VerticalAlignment="Bottom" 
@@ -140,9 +140,9 @@
         <ListBox Grid.Column="0" Grid.Row="6" Grid.RowSpan="2"></ListBox>
 
         <!--Customer Image-->
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Walter.png" Grid.Column="5" Grid.Row="9"/>
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Walter.png" Grid.Column="5" Grid.Row="10"/>
-        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Walter.png" Grid.Column="5" Grid.Row="11"/>
+        <Image Source="../images/Walter.png" Grid.Column="5" Grid.Row="9" Height="25" VerticalAlignment="Top"/>
+        <Image Source="../images/Walter.png" Grid.Column="5" Grid.Row="10"/>
+        <Image Source="../images/Walter.png" Grid.Column="5" Grid.Row="11"/>
 
     </Grid>
 </Window>
