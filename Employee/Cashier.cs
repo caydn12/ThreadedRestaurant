@@ -7,13 +7,13 @@ using System.Threading;
 
 namespace ThreadedRestaraunt
 {
-    public class OrderTaker : IEmployee
+    public class Cashier : IEmployee
     {
         CustomerLine _customerLine;
         OrderWall _orderWall;
         CustomerSeating _customerSeating;
 
-        public OrderTaker(CustomerLine customerLine, OrderWall orderWall, CustomerSeating customerSeating)
+        public Cashier(CustomerLine customerLine, OrderWall orderWall, CustomerSeating customerSeating)
         {
             _customerLine = customerLine;
             _orderWall = orderWall;
