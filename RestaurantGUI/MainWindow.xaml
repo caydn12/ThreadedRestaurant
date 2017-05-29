@@ -86,7 +86,7 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
-        <Image Source="asdfasdfsafRestsadfsadfasaurantGUI\assets\images\Cashier.png" Grid.Column="5" Grid.Row="6"/>
+        <Image Source="asdfasdfsafasdfsadfsRestsadfsadfasaurantGUI\assets\images\Cashier.png" Grid.Column="5" Grid.Row="6"/>
 
         <!--Third Cashier-->
         <Grid Grid.Column="7" Grid.Row="5">
