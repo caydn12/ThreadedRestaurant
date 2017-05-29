@@ -63,7 +63,7 @@
         <Rectangle Fill="Black" Grid.Column="10" Grid.ColumnSpan="1" Grid.Row="6"/>
 
         <!--First Cashier-->
-        <Grid Grid.Column="3" Grid.Row="6">
+        <Grid Grid.Column="3" Grid.Row="5">
             <Grid.RowDefinitions>
                 <RowDefinition Height="0.50*"/>
                 <RowDefinition Height="0.50*"/>
@@ -73,9 +73,10 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
+        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Cashier.png" Grid.Column="3" Grid.Row="6"/>
 
         <!--Second Cashier-->
-        <Grid Grid.Column="5" Grid.Row="6">
+        <Grid Grid.Column="5" Grid.Row="5">
             <Grid.RowDefinitions>
                 <RowDefinition Height="0.50*"/>
                 <RowDefinition Height="0.50*"/>
@@ -85,9 +86,10 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
+        <Image Source="RestaurantGUI\assets\images\Cashier.png" Grid.Column="5" Grid.Row="6"/>
 
         <!--Third Cashier-->
-        <Grid Grid.Column="7" Grid.Row="6">
+        <Grid Grid.Column="7" Grid.Row="5">
             <Grid.RowDefinitions>
                 <RowDefinition Height="0.50*"/>
                 <RowDefinition Height="0.50*"/>
@@ -97,11 +99,12 @@
             <Label Grid.Row="1" VerticalAlignment="Top"
                    HorizontalAlignment="Center">(ACTION...)</Label>
         </Grid>
+        <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Cashier.png" Grid.Column="7" Grid.Row="6"/>
         
         <!--Placed Order Queue-->
-        <TextBlock Grid.Column="5" Grid.Row="3" VerticalAlignment="Bottom" 
+        <TextBlock Grid.Column="5" Grid.Row="2" VerticalAlignment="Bottom" 
                    HorizontalAlignment="Center">Placed Orders</TextBlock>
-        <ListBox Grid.Column="5" Grid.Row="4" Grid.RowSpan="2"></ListBox>
+        <ListBox Grid.Column="5" Grid.Row="3" Grid.RowSpan="2"></ListBox>
 
         <!--First Chef-->
         <Grid Grid.Column="9" Grid.Row="2">

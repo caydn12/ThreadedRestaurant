@@ -1,0 +1,7 @@
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\bin\Debug\Customer.dll
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\bin\Debug\Customer.pdb
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\bin\Debug\Orders.dll
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\bin\Debug\Orders.pdb
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\obj\Debug\Customers.csprojResolveAssemblyReference.cache
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\obj\Debug\Customer.dll
+C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Customer\obj\Debug\Customer.pdb

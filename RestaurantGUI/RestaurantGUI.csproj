@@ -54,6 +54,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Restaurant.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -92,6 +93,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Customer\Customers.csproj">
+      <Project>{279025a9-e6d4-4942-b958-fbc8984d8435}</Project>
+      <Name>Customers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Employee\Employees.csproj">
+      <Project>{1641d495-412f-4962-821b-92b1ed7c0356}</Project>
+      <Name>Employees</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Orders\Orders.csproj">
+      <Project>{d9a7eae7-d478-4634-948c-218bd22c252b}</Project>
+      <Name>Orders</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

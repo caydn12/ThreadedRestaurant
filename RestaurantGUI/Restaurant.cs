@@ -34,7 +34,7 @@ namespace ThreadedRestaraunt
         public void LoadEmployees()
         {
             _employees.Add(new TableCleaner(_customerSeating));
-            _employees.Add(new OrderTaker(_customerLine, _orderWall, _customerSeating));
+            _employees.Add(new Cashier(_customerLine, _orderWall, _customerSeating));
             _employees.Add(new OrderServer(_meals, _customerSeating));
 
             for (int i = 0; i < 5; i++)
