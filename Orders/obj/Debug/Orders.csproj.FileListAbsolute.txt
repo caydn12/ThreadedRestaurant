@@ -1,4 +1,0 @@
-C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Orders\bin\Debug\Orders.dll
-C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Orders\bin\Debug\Orders.pdb
-C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Orders\obj\Debug\Orders.dll
-C:\Users\Caydn\Desktop\ThreadedRestaurantGUI\ThreadedRestaurant\Orders\obj\Debug\Orders.pdb
