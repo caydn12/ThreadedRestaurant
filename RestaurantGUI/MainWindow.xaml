@@ -141,7 +141,5 @@
         <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Walter.png" Grid.Column="5" Grid.Row="10"/>
         <Image Source="C:\Users\Caydn\Desktop\RestaurantGUI\RestaurantGUI\assets\images\Walter.png" Grid.Column="5" Grid.Row="11"/>
 
-        
-        
     </Grid>
 </Window>
